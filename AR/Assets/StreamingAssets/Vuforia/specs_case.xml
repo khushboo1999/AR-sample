@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="WIN_20181224_13_48_45_Pro" size="0.030000 0.045532" />
+    <ImageTarget name="51sp5MdS83L" size="0.100000 0.049583" />
+    <ImageTarget name="marker" size="0.100000 0.058333" />
+    <ImageTarget name="WIN_20181224_13_06_59_Pro" size="0.150000 0.060140" />
+  </Tracking>
+</QCARConfig>
